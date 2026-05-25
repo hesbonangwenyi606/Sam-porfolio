@@ -22,7 +22,6 @@ A modern and responsive portfolio website built with React, TypeScript, and Vite
 ---
 
 ##  Getting Started
-
 ### Prerequisites
 
 Make sure you have installed:
@@ -33,19 +32,21 @@ Make sure you have installed:
 ---
 
 ##  Installation
-
 ### Clone the repository
 
 ```bash
 git clone git@github.com:hesbonangwenyi606/Sam-porfolio.git
 
-Navigate into the project folder
+##Navigate into the project folder
 cd Sam-porfolio
-Install dependencies
+
+## Install dependencies
 npm install
+
 Start the development server
 npm run dev
- Build for Production
+
+### Build for Production
 npm run build
 
 ## Preview Production Build
