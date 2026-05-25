@@ -32,11 +32,9 @@ Navigate into the project folder:
 cd Sam-porfolio
 
 Install dependencies:
-
 npm install
 
 Start the development server:
-
 npm run dev
 Build for Production
 npm run build
