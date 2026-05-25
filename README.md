@@ -22,7 +22,6 @@ Make sure you have installed:
 Node.js
 npm
 Installation
-
 Clone the repository:
 
 git clone git@github.com:hesbonangwenyi606/Sam-porfolio.git
