@@ -1,5 +1,4 @@
 # Sam Portfolio
-
 A modern and responsive portfolio website built with React, TypeScript, and Vite to showcase projects, skills, and professional experience.
 
 ---
