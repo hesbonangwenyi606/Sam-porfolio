@@ -26,9 +26,7 @@ Installation
 Clone the repository:
 
 git clone git@github.com:hesbonangwenyi606/Sam-porfolio.git
-
 Navigate into the project folder:
-
 cd Sam-porfolio
 
 Install dependencies:
