@@ -16,7 +16,6 @@ Type-safe development using TypeScript
 Easy customization
 Getting Started
 Prerequisites
-
 Make sure you have installed:
 
 Node.js
