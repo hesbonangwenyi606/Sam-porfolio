@@ -41,3 +41,14 @@ Make sure you have installed:
 
 ```bash
 git clone git@github.com:hesbonangwenyi606/Sam-porfolio.git
+
+Navigate into the project folder
+cd Sam-porfolio
+Install dependencies
+npm install
+Start the development server
+npm run dev
+🚀 Build for Production
+npm run build
+👀 Preview Production Build
+npm run preview
