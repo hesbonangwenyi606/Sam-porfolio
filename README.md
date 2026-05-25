@@ -4,8 +4,7 @@ A modern and responsive portfolio website built with React, TypeScript, and Vite
 
 ---
 
-## 🚀 Tech Stack
-
+##  Tech Stack
 - React
 - TypeScript
 - Vite
@@ -14,8 +13,7 @@ A modern and responsive portfolio website built with React, TypeScript, and Vite
 
 ---
 
-## ✨ Features
-
+##  Features
 - Responsive modern UI
 - Fast development with Vite
 - Clean component structure
