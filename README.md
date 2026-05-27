@@ -9,7 +9,6 @@ A modern and responsive portfolio website built with React, TypeScript, and Vite
 - Vite
 - Tailwind CSS
 - ESLint
-
 ---
 
 ##  Features
