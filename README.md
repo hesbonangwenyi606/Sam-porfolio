@@ -22,7 +22,6 @@ A modern and responsive portfolio website built with React, TypeScript, and Vite
 
 ##  Getting Started
 ### Prerequisites
-
 Make sure you have installed:
 
 - Node.js
